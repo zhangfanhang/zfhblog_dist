@@ -1,0 +1,1 @@
+import{ac as n,H as o,I as t,O as c,X as s}from"./framework-fadc5609.js";const a={};function r(_,l){const e=s("Busuanzi");return o(),t("div",null,[c(e)])}const u=n(a,[["render",r],["__file","index.html.vue"]]);export{u as default};
